@@ -1,6 +1,6 @@
 # libcef build tools
 
-A build tools for libcef-for-MFC repository in windows.
+A build tools for [libcef-for-MFC](https://github.com/jhuix/libcef-for-MFC) repository in windows.
 
 
 ## Build Step
